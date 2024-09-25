@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice24.9.25_experiment/Exp1/Exp1.iml" filepath="$PROJECT_DIR$/practice24.9.25_experiment/Exp1/Exp1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice2024.iml" filepath="$PROJECT_DIR$/Practice2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/practic24.9.11/practic24.9.11.iml" filepath="$PROJECT_DIR$/practic24.9.11/practic24.9.11.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.8.31/practice24.8.31.iml" filepath="$PROJECT_DIR$/practice24.8.31/practice24.8.31.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/practice24.9.18wuziqiNew/practice24.9.18wuziqiNew.iml" filepath="$PROJECT_DIR$/practice24.9.18wuziqiNew/practice24.9.18wuziqiNew.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.9.2/practice24.9.2.iml" filepath="$PROJECT_DIR$/practice24.9.2/practice24.9.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.9.23/practice24.9.23.iml" filepath="$PROJECT_DIR$/practice24.9.23/practice24.9.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice24.9.25/practice24.9.25.iml" filepath="$PROJECT_DIR$/practice24.9.25/practice24.9.25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice24.9.25_experiment/practice24.9.25_experiment.iml" filepath="$PROJECT_DIR$/practice24.9.25_experiment/practice24.9.25_experiment.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.9.3/practice24.9.3.iml" filepath="$PROJECT_DIR$/practice24.9.3/practice24.9.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.9.9/practice24.9.9.iml" filepath="$PROJECT_DIR$/practice24.9.9/practice24.9.9.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice24.9.9wuziqi/practice24.9.9wuziqi.iml" filepath="$PROJECT_DIR$/practice24.9.9wuziqi/practice24.9.9wuziqi.iml" />

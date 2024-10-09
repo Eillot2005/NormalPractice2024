@@ -6,6 +6,10 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         int a = sc.nextInt();
         System.out.println(a);
-
+        StringBuilder sb=new StringBuilder();
+        sb.append("hello ");
+        sb.append("world");
+        String str=sb.toString();
+        System.out.println(str);
     }
 }

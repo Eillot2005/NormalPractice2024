@@ -37,7 +37,7 @@ American's average weight:75.0kg
  */
 
 //1.People类中的public void speakHello() public void averageHeight() public void averageWeight()3个方法的方法体语句能否省略？
-//可以省略，因为后面的子类都对这三个方法进行了重写，所以这三个方法的方法体语句可以省略。
+//不可以，因为方法体语句是方法的具体实现，如果省略方法体语句，方法就没有具体实现，编译就会报错。
 
 //2.能否将class People中的protected double weight, height中的protected改成private?
 //不能，因为子类中需要继承父类的属性，如果将protected改成private，子类就无法继承父类的属性了。
